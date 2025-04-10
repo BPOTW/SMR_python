@@ -1,0 +1,53 @@
+{
+    "created_at": "2025-03-31 13:38:34",
+    "uploaded_by": {
+        "English": "zain ali",
+        "Urdu": "zain ali"
+    },
+    "class": 12,
+    "section": "mb-blue",
+    "marks": {
+        "3": {
+            "class": "12",
+            "result": {
+                "English": 30,
+                "Urdu": 21
+            },
+            "section": "mb-blue",
+            "roll_no": "3",
+            "name": "zain ali"
+        },
+        "1": {
+            "class": "12",
+            "result": {
+                "English": 12,
+                "Urdu": 12
+            },
+            "section": "mb-blue",
+            "roll_no": "1",
+            "name": "zain ali"
+        },
+        "2": {
+            "class": "12",
+            "result": {
+                "English": 15,
+                "Urdu": 18
+            },
+            "section": "mb-blue",
+            "roll_no": "2",
+            "name": "ali murad"
+        }
+    },
+    "completed": true,
+    "last_updated": "2025-04-01 14:33:51",
+    "test_name": "GT-1",
+    "strength": 3,
+    "max_marks": 40,
+    "status": {
+        "English": "Ready",
+        "Urdu": "Ready"
+    },
+    "updated_at": "2025-03-31 13:38:34",
+    "class_incharge": "Konain Ali Mirza",
+    "id": "semxT6PpubQHnDs01g9S"
+}

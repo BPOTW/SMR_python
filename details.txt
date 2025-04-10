@@ -1,0 +1,85 @@
+Here’s a structured breakdown of features for each app:  
+
+---
+
+## **1. Admin App (Main App)**
+**Purpose:** Full control over students, courses, results, and analytics.  
+
+### **User Management**
+- Add/Edit/Delete students, teachers, and parents.  
+- Assign students to specific courses and sections.  
+- Manage teacher assignments for different classes.  
+- Role-based access control (Admin, Teacher, Student, Parent).  
+
+### **Course & Subject Management**
+- Create and manage courses & subjects.  
+- Assign subjects to teachers and students.  
+- Set grading scales (CGPA, percentage, etc.).  
+
+### **Result Management**
+- View, edit, and approve results added by teachers.  
+- Lock results after final approval.  
+- Generate & export student report cards (PDF/Excel).  
+- Send results to students via **WhatsApp automation**.  
+
+### **Dashboard & Analytics**
+- Track student performance trends.  
+- View teacher activity logs.  
+- Generate class performance reports.  
+- Monitor real-time updates from teachers.  
+
+### **System Settings**
+- Manage authentication (phone number & password).  
+- Set up WhatsApp API for result notifications.  
+- Backup & restore system data.  
+
+---
+
+## **2. Teacher App**
+**Purpose:** Allows teachers to add/edit results, track course progress, and manage daily syllabus.  
+
+### **Login & Class Access**
+- Secure login with phone number & password.  
+- Access only assigned classes and sections.  
+
+### **Result Entry & Management**
+- Add student results one by one.  
+- Edit/update results before final submission.  
+- View progress of students in assigned courses.  
+
+### **Daily Syllabus & Course Progress**
+- Add and update daily syllabus for each class.  
+- Track syllabus completion percentage.  
+- Notify students about new syllabus updates.  
+
+### **Notifications & Updates**
+- Receive alerts for pending result submissions.  
+- Get reminders for syllabus updates.  
+- View feedback from the admin on result submissions.  
+
+---
+
+## **3. Student/Parent App**
+**Purpose:** Provides access to student results, grades, and course progress.  
+
+### **Login & Profile**
+- Secure login with phone number & password.  
+- Profile management (student details & enrolled courses).  
+
+### **Results & Performance Tracking**
+- View grades for all subjects.  
+- Download report cards in PDF format.  
+- Compare current semester with previous ones.  
+
+### **Course Progress**
+- View syllabus updates from teachers.  
+- Track syllabus completion percentage.  
+
+### **Notifications & Updates**
+- Receive real-time result updates.  
+- Get alerts when new syllabus content is available.  
+- Receive WhatsApp messages with results.  
+
+---
+
+This structure ensures smooth management for all users. Do you want to add any more advanced features? 😊
